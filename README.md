@@ -1,2 +1,2 @@
 # ToDolist
-A To-Do-list developed on the basis of react,
+A To-Do-list developed on the basis of react.
